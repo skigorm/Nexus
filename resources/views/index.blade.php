@@ -20,10 +20,10 @@
       <p class="message">Already registered? <a href="#">Sign In</a></p>
     </form>
     <form class="login-form">
-      <input type="text" placeholder="username"/>
-      <input type="password" placeholder="password"/>
+      <input type="text" placeholder="usuário"/>
+      <input type="password" placeholder="senha"/>
       <button>login</button>
-      <p class="message">Not registered? <a href="#"></a></p>
+      <p class="message">Criar Conta <a href="#"></a></p>
     </form>
   </div>
 </div>
