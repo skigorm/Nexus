@@ -13,27 +13,4 @@ class SiteController extends Controller
 
     }
 
-    public function aluno()
-    {
-
-      return view ('aluno');
-
-    }
-
-    public function agenda()
-    {
-
-      return view ("agenda");
-
-    }
-
-    public function home()
-    {
-
-      return view ("home");
-
-    }
-
-
-
 }
