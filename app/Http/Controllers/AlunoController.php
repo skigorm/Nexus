@@ -11,9 +11,11 @@ class AlunoController extends Controller
     public function aluno()
     {
 
-      return view ('aluno');
+      return view ('alunollllll');
 
     }
+
+
 
 
 }
